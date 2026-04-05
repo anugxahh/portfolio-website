@@ -17,7 +17,6 @@ The website is developed using:
 
 HTML
 CSS
-JavaScript
 Live Website
 
 The project is hosted using GitHub Pages and can be accessed here:
